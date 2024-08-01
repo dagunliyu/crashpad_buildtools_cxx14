@@ -1,0 +1,6 @@
+[submodule "buildtools"]
+	path = buildtools
+	url = https://github.com/dagunliyu/buildtools.git
+[submodule "crashpad"]
+	path = crashpad
+	url = https://github.com/dagunliyu/crashpad_cxx14.git
